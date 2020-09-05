@@ -67,13 +67,15 @@ include ('./components/header.php');
               <div class="mx-2 text-center text-sm-left mb-3 mb-sm-0">
                 <span class="h1 d-block">VIP Experience</span>
                 <p class="lead pr-xl-3">
-                  Beauty, Glamour, Elegance.
+                &nbsp;
+                &nbsp;
                 </p>
-                <a href="#" class="btn btn-lg mt-2 btn-white">Buy Ticket Now</a>
+                <a href="book" class="btn btn-lg mt-2 btn-white">Buy Ticket Now</a>
               </div>
               <div class="mx-2 text-center">
                 <div class="d-flex align-items-center">
-                  <span class="h3 mb-0">₦</span>
+                  <span class="h3 mb-0">₦</span>&nbsp;
+                  <span class="display-5" style="text-decoration: line-through;"> 50,000</span><br>
                   <span class="display-3">35,000</span>
                 </div>
                 <span class="text-small">Discount Price</span>
