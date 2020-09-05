@@ -4,27 +4,22 @@
           <div class="col-auto">
             <ul class="nav">
               <li class="nav-item">
-                <a href="#" class="nav-link">
+                <a href="https://www.instagram.com/thenigerianqueenorg/" class="nav-link">
                   <img class="icon undefined" src="assets/img/icons/social/instagram.svg" alt="instagram social icon" data-inject-svg />
                 </a>
               </li>
               <li class="nav-item">
-                <a href="#" class="nav-link">
+                <a href="https://twitter.com/DNigerianQueen" class="nav-link">
                   <img class="icon undefined" src="assets/img/icons/social/twitter.svg" alt="twitter social icon" data-inject-svg />
                 </a>
               </li>
               <li class="nav-item">
-                <a href="#" class="nav-link">
+                <a href="https://www.youtube.com/channel/UCUI8aQAbfa5J7D5za5IbiVw" class="nav-link">
                   <img class="icon undefined" src="assets/img/icons/social/youtube.svg" alt="youtube social icon" data-inject-svg />
                 </a>
               </li>
               <li class="nav-item">
-                <a href="#" class="nav-link">
-                  <img class="icon undefined" src="assets/img/icons/social/medium.svg" alt="medium social icon" data-inject-svg />
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="#" class="nav-link">
+                <a href="https://web.facebook.com/thenigerianqueenorg" class="nav-link">
                   <img class="icon undefined" src="assets/img/icons/social/facebook.svg" alt="facebook social icon" data-inject-svg />
                 </a>
               </li>

@@ -7,9 +7,9 @@ include ('./components/header.php');
       <div class="container layer-2">
         <div class="row py-6 min-vh-80 align-items-center" data-aos="fade-up">
           <div class="col-lg-9 col-xl-8 mt-7">
-            <h5>The Biggest Night of</h5>
-            <h1 class="display-1">BEAUTY</h1>
-            <p class="lead mb-4">Show support to your favourite contestant and get a discount to be there live at the grand finale.</p>
+            <h5>Style, Glamour & Beauty</h5>
+            <h1 class="display-0">TNQ2020</h1>
+            <p class="lead mb-4">Witness the Biggest Night of Beauty Live and Safe.</p>
             <a href="#ticket" class="btn btn-primary btn-lg">Purchase Tickets</a>
           </div>
         </div>
@@ -27,9 +27,9 @@ include ('./components/header.php');
       <div class="container">
         <div class="row justify-content-between">
           <div class="col-md-6 mb-3 mb-md-0">
-            <h2 class="h1">Immerse yourself in two days of creative discussion.</h2>
-            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
-            <p class="lead">Unde omnis iste natus error sit voluptatem accusantium.</p>
+            <h2 class="h1">Witness the crowning of a new queen.</h2>
+            <p class="lead">Show support to your favourite contestant by getting a ticket at a discounted price to be there live at the grand finale of the biggest night of beauty.</p>
+            <p class="lead">#RoadToNigerianQueen2020</p>
           </div>
           <div class="col-md-5">
             <small class="text-uppercase mb-4">Sponsored By</small>
@@ -63,32 +63,32 @@ include ('./components/header.php');
         <div class="row mb-4 justify-content-center text-center">
           <div class="col-xl-8 col-lg-9">
             <h2 class="display-4">Tickets selling fast</h2>
-            <p class="lead">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa.</p>
+            <p class="lead">Watch and cheer your favourite from LIVE! <br>while keeping safe distance. </p>
           </div>
         </div>
         <div class="row justify-content-center">
           <div class="col-lg-8 col-xl-7" data-aos="fade-up">
             <div class="card card-lg card-body flex-sm-row align-items-center pricing-ticket bg-primary layer-2 text-light">
               <div class="mx-2 text-center text-sm-left mb-3 mb-sm-0">
-                <span class="h1 d-block">VIP Access</span>
+                <span class="h1 d-block">VIP Experience</span>
                 <p class="lead pr-xl-3">
                   Every workshop, talk and event, all weekend.
                 </p>
-                <a href="#" class="btn btn-lg mt-2 btn-white">Purchase Now</a>
+                <a href="#" class="btn btn-lg mt-2 btn-white">Buy Ticket Now</a>
               </div>
               <div class="mx-2 text-center">
                 <div class="d-flex align-items-center">
                   <span class="h3 mb-0">₦</span>
-                  <span class="display-3">25K</span>
+                  <span class="display-3">35K</span>
                 </div>
-                <span class="text-small">Price Includes VAT.</span>
+                <span class="text-small">Discount Price</span>
               </div>
             </div>
             <div class="decoration bottom right scale-2 d-none d-md-block">
               <img class="bg-primary-2" src="assets/img/decorations/deco-blob-13.svg" alt="deco-blob-13 decoration" data-inject-svg />
             </div>
             <div class="text-center">
-              <span>Bringing the whole company? <a href="#" class="hover-arrow">Get in touch</a>
+              <span>For more enquiries and information. <a href="tel:+2348039286380" class="hover-arrow">Get in touch</a>
               </span>
             </div>
           </div>

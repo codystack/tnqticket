@@ -363,6 +363,12 @@ h6 {
     font-size: 1.25rem;
     font-weight: 400;
 }
+.display-0 {
+    font-size: 5.6rem;
+    font-weight: 600;
+    line-height: 1.2;
+}
+
 .display-1 {
     font-size: 6rem;
     font-weight: 600;
@@ -10287,6 +10293,7 @@ html {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
 }
+.display-0,
 .display-1,
 .display-2,
 .display-3,
@@ -10320,12 +10327,14 @@ h5 {
         font-size: 3.5rem;
     }
 }
+.display-0,
 .display-1,
 .display-2,
 .display-3,
 .display-4 {
     color: #212529;
 }
+.display-0,
 .display-1,
 .display-2,
 .display-3,
@@ -10379,6 +10388,7 @@ small.text-uppercase {
 strong {
     font-weight: 600;
 }
+.text-light .display-0,
 .text-light .display-1,
 .text-light .display-2,
 .text-light .display-3,
