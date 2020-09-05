@@ -50,48 +50,10 @@
             <div class="py-2 py-lg-0">
               <ul class="navbar-nav">
                 <li class="nav-item dropdown">
-                  <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown-grid" aria-expanded="false" aria-haspopup="true">Demos</a>
-                  <div class="dropdown-menu row">
-                    <div class="col-auto" data-dropdown-content>
-                      <div class="dropdown-grid-menu"><a href="home-course.html" class="dropdown-item fade-page">Course</a><a href="home-coworking.html" class="dropdown-item fade-page">Coworking<span class="badge badge-primary ml-2">New</span></a><a href="home-cryptocurrency.html" class="dropdown-item fade-page">Cryptocurrency</a>
-                        <a
-                        href="home-desktop-app.html" class="dropdown-item fade-page">Desktop App</a><a href="home-event.html" class="dropdown-item fade-page">Event</a><a href="home-mobile-app.html" class="dropdown-item fade-page">Mobile App</a><a href="home-portfolio.html" class="dropdown-item fade-page">Portfolio</a>
-                          <a
-                          href="home-saas.html" class="dropdown-item fade-page">SaaS</a><a href="home-saas-trend.html" class="dropdown-item fade-page">SaaS - Trend</a><a href="home-software-library.html" class="dropdown-item fade-page">Software Library</a>
-                      </div>
-                    </div>
-                  </div>
-                </li>
-                <li class="nav-item dropdown">
-                  <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown-grid" aria-expanded="false" aria-haspopup="true">Support</a>
-                  <div class="dropdown-menu row">
-                    <div class="col-auto px-0" data-dropdown-content>
-                      <div class="bg-white rounded border shadow-lg o-hidden">
-                        <div class="p-3">
-                          <h6 class="mb-0">Product Support</h6>
-                        </div>
-                        <div class="list-group list-group-flush">
-                          <a href="documentation/index.html" target="_blank" class="list-group-item list-group-item-action d-flex align-items-center p-3">
-                            <img class="icon icon-md" src="assets/img/icons/theme/files/selected-file.svg" alt="selected-file icon" data-inject-svg />
-                            <div class="text-body ml-3">
-                              <span>Documentation</span>
-                              <div class="text-small text-muted">Get all the information you need</div>
-                            </div>
-                          </a>
-                          <a href="https://themes.zendesk.com/hc/en-us/articles/360000006291-How-do-I-get-help-with-the-theme-I-purchased-" target="_blank" class="list-group-item list-group-item-action d-flex align-items-center p-3">
-                            <img class="icon icon-md" src="assets/img/icons/theme/communication/chat-4.svg" alt="chat-4 icon" data-inject-svg />
-                            <div class="text-body ml-3">
-                              <span>Looking for answers?</span>
-                              <div class="text-small text-muted">Get support</div>
-                            </div>
-                          </a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+                  <a href="https://www.nigerianqueen.org/" class="nav-link" aria-expanded="false" aria-haspopup="true">Go Back to Main Site</a>
                 </li>
               </ul>
-            </div><a href="https://themes.getbootstrap.com/product/leap-multipurpose-bootstrap-theme/" class="btn btn-primary ml-lg-3">Purchase Now</a>
+            </div><a href="#ticket" class="btn btn-primary ml-lg-3">Buy Ticket</a>
 
           </div>
         </div>
