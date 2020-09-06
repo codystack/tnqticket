@@ -56,6 +56,34 @@
             <h1>Your download should start automatically</h1>
             <div class="lead mb-4">If the download doesn't start, <a href="#">Click here</a> to download manually.</div>
             <a class="btn btn-primary btn-sm" href="index-2.html">Continue browsing</a>
+            <div class="m-xl-4 m-3">
+                        <div class="text-center mb-4">
+                          <h4 class="h3 mb-1">Welcome back</h4>
+                          <span>Enter your account details below</span>
+                        </div>
+                        <form>
+                          <div class="form-group">
+                            <input type="email" name="login-email" placeholder="Email Address" class="form-control">
+                          </div>
+                          <div class="form-group">
+                            <input type="password" name="login-password" placeholder="Password" class="form-control">
+                            <small><a href="#">Forgot your password?</a>
+                            </small>
+                          </div>
+                          <div class="form-group">
+                            <button class="btn-block btn btn-primary" type="submit">Sign in</button>
+                          </div>
+                          <div class="custom-control custom-checkbox">
+                            <input type="checkbox" class="custom-control-input" id="login-remember">
+                            <label class="custom-control-label text-small text-muted" for="login-remember">Keep me signed in</label>
+                          </div>
+                          <hr>
+                          <div class="text-center text-small text-muted">
+                            <span>Don't have an account yet? <a href="#">Create one</a>
+                            </span>
+                          </div>
+                        </form>
+                      </div>
           </div>
         </div>
       </div>
