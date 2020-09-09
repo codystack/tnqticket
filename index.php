@@ -77,7 +77,7 @@ include ('./components/header.php');
                   <span class="h3 mb-0">₦</span>&nbsp;
                   <span class="display-3">50,000</span>
                 </div>
-                <span class="text-small">Discount Price</span>
+                <span class="text-small">The VIP Treat</span>
               </div>
             </div>
             <div class="decoration bottom right scale-2 d-none d-md-block">
