@@ -75,8 +75,7 @@ include ('./components/header.php');
               <div class="mx-2 text-center">
                 <div class="d-flex align-items-center">
                   <span class="h3 mb-0">₦</span>&nbsp;
-                  <span class="display-5" style="text-decoration: line-through;"> 50,000</span><br>
-                  <span class="display-3">35,000</span>
+                  <span class="display-3">50,000</span>
                 </div>
                 <span class="text-small">Discount Price</span>
               </div>
