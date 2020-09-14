@@ -84,7 +84,7 @@ include ('./components/header.php');
           <div class="col-lg-6 col-xl-6" data-aos="fade-up">
             <div class="card card-lg card-body flex-sm-row align-items-center pricing-ticket bg-primary layer-2 text-light">
               <div class="mx-2 text-center text-sm-left mb-3 mb-sm-0">
-                <span class="h1 d-block">VIP&nbsp; &nbsp; &nbsp; &nbsp;  Ticket</span>
+                <span class="h1 d-block">VIP Ticket</span>
                 <p class="lead pr-xl-3">
                 &nbsp;
                 &nbsp;
