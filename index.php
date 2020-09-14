@@ -77,14 +77,14 @@ include ('./components/header.php');
                   <span class="h3 mb-0">₦</span>&nbsp;
                   <span class="display-3">20,000</span>
                 </div>
-                <span class="text-small">The VIP Treat</span>
+                <!--<span class="text-small">The VIP Treat</span>-->
               </div>
             </div>
           </div>
           <div class="col-lg-6 col-xl-6" data-aos="fade-up">
             <div class="card card-lg card-body flex-sm-row align-items-center pricing-ticket bg-primary layer-2 text-light">
               <div class="mx-2 text-center text-sm-left mb-3 mb-sm-0">
-                <span class="h1 d-block">VIP Ticket</span>
+                <span class="h1 d-block">VIP&nbsp; &nbsp; &nbsp; &nbsp;  Ticket</span>
                 <p class="lead pr-xl-3">
                 &nbsp;
                 &nbsp;
@@ -96,7 +96,7 @@ include ('./components/header.php');
                   <span class="h3 mb-0">₦</span>&nbsp;
                   <span class="display-3">50,000</span>
                 </div>
-                <span class="text-small">The VIP Treat</span>
+                <!--<span class="text-small">The VIP Treat</span>-->
               </div>
             </div>
           </div>
