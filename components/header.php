@@ -20,6 +20,7 @@
     <title>Ticket Online&trade; :: Nigeria's 1st Online ticket platform</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Watch and cheer your favourite contestant LIVE! while keeping safe distance.">
+    <meta name="author" content="ThankGod Okoro is a Software developer/programmer, Web + App Developer, UI/UX Designer, Brand Strategist & Product/Graphic Designer.">
     <style>
       @keyframes hideLoader{0%{ width: 100%; height: 100%; }100%{ width: 0; height: 0; }  }  body > div.loader{ position: fixed; background: white; width: 100%; height: 100%; z-index: 1071; opacity: 0; transition: opacity .5s ease; overflow: hidden; pointer-events: none; display: flex; align-items: center; justify-content: center;}body:not(.loaded) > div.loader{ opacity: 1;}body:not(.loaded){ overflow: hidden;}  body.loaded > div.loader{animation: hideLoader .5s linear .5s forwards;  } /* Typing Animation */.loading-animation {width: 6px;height: 6px;border-radius: 50%;animation: typing 1s linear infinite alternate;position: relative;left: -12px;}@keyframes typing {0% {background-color: rgba(100,100,100, 1);box-shadow: 12px 0px 0px 0px rgba(100,100,100, 0.2),24px 0px 0px 0px rgba(100,100,100, 0.2);}25% {background-color: rgba(100,100,100, 0.4);box-shadow: 12px 0px 0px 0px rgba(100,100,100, 2),24px 0px 0px 0px rgba(100,100,100, 0.2);}75% {background-color: rgba(100,100,100, 0.4);box-shadow: 12px 0px 0px 0px rgba(100,100,100, 0.2),24px 0px 0px 0px rgba(100,100,100, 1);}}
     </style>
@@ -40,7 +41,7 @@
     <div class="navbar-container ">
       <nav class="navbar navbar-expand-lg navbar-dark" data-overlay data-sticky="top">
         <div class="container">
-          <a class="navbar-brand fade-page" href="index-2.html">
+          <a class="navbar-brand fade-page" href="\">
             <img src="https://i.imgur.com/XSGaWUp.png" alt="TNQ" width="250px">
           </a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
