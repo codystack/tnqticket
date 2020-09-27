@@ -75,7 +75,7 @@ include ('./components/header.php');
               <div class="mx-2 text-center">
                 <div class="d-flex align-items-center">
                   <span class="h3 mb-0">₦</span>&nbsp;
-                  <span class="display-3">15,000</span>
+                  <span class="display-3">25,000</span>
                 </div>
                 <!--<span class="text-small">The VIP Treat</span>-->
               </div>
