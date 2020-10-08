@@ -62,6 +62,26 @@ include ('./components/header.php');
           </div>
         </div>
         <div class="row justify-content-center">
+          <div class="col-lg-8 col-xl-7 aos-init aos-animate" data-aos="fade-up">
+            <div class="card card-lg card-body flex-sm-row align-items-center pricing-ticket bg-primary layer-2 text-light">
+              <div class="mx-2 text-center text-sm-left mb-3 mb-sm-0">
+                <span class="h1 d-block">Exclusive Table</span>
+                <p class="lead pr-xl-3">
+                  Table for six
+                </p>
+                <a href="https://ticket.nigerianqueen.org/book/checkout/?add-to-cart=6044" class="btn btn-lg mt-2 btn-white">Buy Ticket</a>
+              </div>
+              <div class="mx-2 text-center">
+                <div class="d-flex align-items-center">
+                  <span class="h3 mb-0">₦</span>
+                  <span class="display-3">1Million</span>
+                </div>
+              </div>
+            </div>
+            <div class="decoration bottom right scale-2 d-none d-md-block">
+              <img class="bg-primary-2" src="" alt="deco-blob-13 decoration" data-inject-svg="">
+            </div>
+          </div>
           <div class="col-lg-6 col-xl-6" data-aos="fade-up">
             <div class="card card-lg card-body flex-sm-row align-items-center pricing-ticket bg-primary layer-2 text-light">
               <div class="mx-2 text-center text-sm-left mb-3 mb-sm-0">
