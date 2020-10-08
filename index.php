@@ -120,10 +120,6 @@ include ('./components/header.php');
               <img class="bg-primary-2" src="" alt="deco-blob-13 decoration" data-inject-svg="">
             </div>
           </div>
-          <div class="text-center">
-              <span>For more enquiries and information. <a href="tel:+2348039286380" class="hover-arrow">Get in touch</a>
-              </span>
-            </div>
         </div>
       </div>
     </section>
