@@ -10,7 +10,7 @@ include ('./components/header.php');
           <div class="col-lg-9 col-xl-8 mt-7">
             <h5>Standard Ticket</h5>
             <h1 class="display-0" syle="font-weight: 1000px;">Sold Out</h1>
-            <p class="lead mb-4">To witness the Biggest Night of Beauty Live and Safe, buy another available ticket.</p>
+            <p class="lead mb-4">To witness the Biggest Night of Beauty Live and Safe, buy available ticket.</p>
             <a href="\" class="btn btn-primary btn-lg">Go Back</a>
           </div>
         </div>
