@@ -70,7 +70,7 @@ include ('./components/header.php');
                 &nbsp;
                 &nbsp;
                 </p>
-                <a href="https://ticket.nigerianqueen.org/book/checkout/?add-to-cart=5703" class="btn btn-lg mt-2 btn-white">Buy Ticket</a>
+                <a href="soldout" class="btn btn-lg mt-2 btn-white">Buy Ticket</a>
               </div>
               <div class="mx-2 text-center">
                 <div class="d-flex align-items-center">
